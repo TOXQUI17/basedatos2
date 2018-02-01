@@ -23,6 +23,7 @@ end;
 /
 
 select * from Almacen
+-- probar el procedimiento  con netbeans
 
 -- usaremos un bloque sql para probar que esta bien nuestro procedimiento
 
